@@ -80,14 +80,14 @@ h3 {
 
 @media (max-width: 480px) {
     .calculator form input {
-        width: 60px;
-        height: 60px;
-        font-size: 16px;
-        margin: 6px;
+        width: 80px;
+        height: 80px;
+        font-size: 20px;
+        margin: 8px;
     }
 
     form .display input {
-        font-size: 28px;
+        font-size: 50px;
     }
 
     form input.equal {
